@@ -2,7 +2,7 @@
 
 Python offers several built-in data structures, each serving a specific purpose and optimized for different types of operations.
 
-**Dictionaries** are a versatile data structure that allows for the storage of key-value pairs. They provide an efficient way to retrieve values when the corresponding key is known, making them ideal for scenarios where quick lookups are required. Keys in dictionaries are unique and can be of various data types, while the values can be any object. This flexibility makes dictionaries highly useful for mapping relationships and storing associative arrays.
+ Dictionaries  are a versatile data structure that allows for the storage of key-value pairs. They provide an efficient way to retrieve values when the corresponding key is known, making them ideal for scenarios where quick lookups are required. Keys in dictionaries are unique and can be of various data types, while the values can be any object. This flexibility makes dictionaries highly useful for mapping relationships and storing associative arrays.
 
 **Lists** in Python are dynamic arrays that can hold elements of any data type. They are ordered, meaning that the elements are stored in a specific sequence and can be accessed using their index. Lists are mutable, allowing elements to be added, removed, or modified in place. They are widely used for managing collections of items, where order matters, and where the ability to change the content is required. Lists are commonly used for tasks like storing sequences of data, such as items in a shopping cart or elements in a queue.
 
